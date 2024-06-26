@@ -1,7 +1,5 @@
 package Programa;
 
-import utilitarios.Utils;
-
 public class Conta {
 
     private static int contadorDeContas = 1;

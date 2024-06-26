@@ -18,14 +18,14 @@ public class AgenciaBancaria {
         System.out.println("----------------------------------------------------");
         System.out.println("Bem vindos a nossa Agencia");
         System.out.println("-------------------------------------------");
-        System.out.println("******Selecione uma operação********");
+        System.out.println("******Selecione uma operacao********");
         System.out.println("-----------------------------------------------------");
-        System.out.println("     Opção - 01 - Criar conta   ");
-        System.out.println("     Opção - 02 - Depositar"    );
-        System.out.println("     Opção - 03 - Sacar"        );
-        System.out.println("     Opção - 04 - Transferir"   );
-        System.out.println("     Opção - 05 - Listar"       );
-        System.out.println("     Opção - 06 - Sair"         );
+        System.out.println("     Opçao - 01 - Criar conta   ");
+        System.out.println("     Opçao - 02 - Depositar"    );
+        System.out.println("     Opçao - 03 - Sacar"        );
+        System.out.println("     Opçao - 04 - Transferir"   );
+        System.out.println("     Opçao - 05 - Listar"       );
+        System.out.println("     Opçao - 06 - Sair"         );
 
         int operacao = input.nextInt();
 
